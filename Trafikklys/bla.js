@@ -5,7 +5,6 @@ let redcolor = `unactive`;
 //disse er nå koblet opp til CSS class siden navnet er lagt inn i class i div-en. 
 //endre klassen ved å bytte ut navnet til en eksisterende css klasse. 
 
-
 //controller
 function changeGreen(){
     greencolor = `active`; 
